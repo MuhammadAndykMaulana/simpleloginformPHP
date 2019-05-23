@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+  background: #ffffff;
+}
+h1{
+  font-size: 40px;
+}
+.profile-image{
+  font-size: 60px;
+  margin-left: 40px;
+  margin-top: 10px;
+  color: #bdbdbd;
+  background: #e1e1e1;
+  padding: 19px;
+  border-radius: 100px;
+}
+.form-control{
+  font-size: 23px;
+  margin-top: 20px;
+  height: 50px;
+  background: #fff;
+}
+.form_error span {
+  width: 100%;
+  height: 35px;
+  margin: 30px;
+  font-size: 1.0em;
+  color: ##D83D5A;
+}
+.form-error input {
+  border: 1px solid ###D83D5A;
+}
+#next_btn{
+  margin-top: 30px;
+  font-size: 19px;
+  width: 360px;
+  background: #4a8df8;
+}
+.btn-primary{
+  margin-top: 20px;
+  margin-left: 200px;
+  font-size: 19px;
+  width: 30px;
+  background: #4a8df8;
+}
+.p{
+  font-size: 19px;
+  color: #4a8df8;
+  margin-top: 10px;
+}
